@@ -613,14 +613,14 @@
   content: "\f098";
 }
 .fa-twitter:before {
-  content: "\f099";
+  content: "\f1d6";
 }
 .fa-facebook-f:before,
 .fa-facebook:before {
-  content: "\f09a";
+  content: "\f1d7";
 }
 .fa-github:before {
-  content: "\f09b";
+  content: "\f092";
 }
 .fa-unlock:before {
   content: "\f09c";
@@ -752,8 +752,8 @@
 .fa-google-plus-square:before {
   content: "\f0d4";
 }
-.fa-google-plus:before {
-  content: "\f0d5";
+.fa-github-square:before {
+  content: "\f092";
 }
 .fa-money:before {
   content: "\f0d6";
@@ -1521,6 +1521,9 @@
 .fa-wechat:before,
 .fa-weixin:before {
   content: "\f1d7";
+}
+.fa-envelope:before{
+  content: "\f0e0"
 }
 .fa-send:before,
 .fa-paper-plane:before {
